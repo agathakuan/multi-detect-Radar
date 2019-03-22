@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+web:https://www.webdesignrankings.com/resources/lolcolors/
+-->
+<resources>
+    <color name="colorPrimary">#252c41</color>
+    <color name="colorPrimaryDark">#f4f5f9</color>
+    <color name="colorAccent">#f1404b</color>
+</resources>
